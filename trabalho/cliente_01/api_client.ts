@@ -1,4 +1,3 @@
-// client_ts.ts
 import readline from "node:readline/promises";
 import { stdin as input, stdout as output } from "node:process";
 
